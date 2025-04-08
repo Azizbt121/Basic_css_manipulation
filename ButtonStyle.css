@@ -1,0 +1,36 @@
+.Search button{
+    border-color: aquamarine;
+    text-decoration: aqua;
+    text-decoration-color: aqua;
+    color:rgb(26, 177, 177);
+    background-color: gainsboro;
+    cursor: pointer;
+    border-radius: 80px;
+    margin-bottom: 50px;
+    padding: 5px 50px;
+   
+}   
+button{
+    border-color: rgb(113, 235, 194);
+    color:white;
+    cursor: pointer;
+    background-color: rgb(134, 239, 185);
+    font-size:50px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+    padding: 20px;
+    margin: 4px 2px;
+}
+.CreateAccount button{
+    background-color: rgb(73, 140, 198);
+    color: white;
+    outline: auto;
+    outline-color: black;
+    cursor: pointer;
+    border: 5px solid black;
+    box-shadow: 10px 20px 40px rgba(3, 3, 3, 0.2);
+    border-radius: 0%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 5px 50px;
+}

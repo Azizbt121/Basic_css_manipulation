@@ -1,0 +1,25 @@
+.mycloud h1 {
+    background-color: black;
+    text-align: left;
+    color: aqua;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    padding: 10px;
+}
+.My{
+    color: white;
+}
+
+h1{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+
+}
+h2 {
+    background-color: lightcyan;
+    color: black;
+    text-align: right;
+    padding: 10px;
+}
