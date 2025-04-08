@@ -1,0 +1,68 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    width: 950px;
+    height: 1000px;
+    background-color: rgb(227, 222, 222);
+    margin: 0px auto;
+    justify-content: space-evenly;
+    outline:2px solid
+}
+h1{
+    text-align: center;
+    color: rgb(107, 105, 105); /* Use any color you like */
+    padding-top: 20px;
+    font-size: 2.5em;
+    margin: 0 auto;
+}
+.sub-content1{
+    display: inline;
+    justify-content: space-evenly;
+    width: 900px;
+    height: 200px;
+    align-self:center;
+    display: inline-block;
+    background-color: aqua;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.sub-content2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 900px;
+    height: 200px;
+    background-color: rgb(234, 130, 217);
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.sub-content3{
+    display: flex;
+    justify-content: space-evenly;
+    width: 900px;
+    height: 200px;
+    background-color: rgb(254, 254, 254);
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.the_Octodex img{
+    width: 280px;
+    height: 200px;
+    display: inline;
+    align-items:baseline;
+
+   
+}
+
+a{
+text-align: end;
+margin-right: 400px;
+   
+}
