@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;  
+    align-items: flex-start;       
+    height: 100vh;            
+    margin-top: 40px;
+  }
+
+.container{
+    display:flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid rgb(189, 183, 183);
+    width: 800px;
+    height: 400px;
+    background: linear-gradient(to bottom,rgb(59, 175, 175) 0%,rgb(59, 175, 175) 25%,transparent 25%,transparent 100%);
+}
+
+
+.name{
+    display: inline-block;
+    font-size: 40px;
+    font-style: italic;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.introduction{
+    font-style: oblique;
+    font-size: 16px;
+    font-weight:bolder;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
